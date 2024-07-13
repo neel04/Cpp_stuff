@@ -106,6 +106,12 @@
     "variant": "cpp",
     "algorithm": "cpp",
     "stack": "cpp",
-    "deque": "cpp"
+    "deque": "cpp",
+    "__tree": "cpp",
+    "map": "cpp",
+    "fstream": "cpp",
+    "iomanip": "cpp",
+    "list": "cpp",
+    "set": "cpp"
   }
 }
